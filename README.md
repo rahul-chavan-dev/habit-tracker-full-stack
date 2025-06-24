@@ -1,4 +1,4 @@
-Update: Changed title from Expense Tracker to Habit Tracker
+Update: Changed title from to Habit Tracker Expense Tracker 
 
 
 This is a simple personal expense tracker built using **Spring Boot**, **MySQL**, and **Postman**.  
