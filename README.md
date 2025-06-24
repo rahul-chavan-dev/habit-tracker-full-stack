@@ -1,4 +1,4 @@
-# 💰 Personal Expense Tracker (Spring Boot + MySQL)
+# 💰 Personal Habit Tracker (Spring Boot + MySQL)
 
 This is a simple personal expense tracker built using **Spring Boot**, **MySQL**, and **Postman**.  
 It allows users to perform basic CRUD operations (Create, Read, Update, Delete) on their expenses.
